@@ -1,5 +1,8 @@
 # bskull-openings
-A brief analysis of opening buys in the popular deck-building game, Dominion, specifically of games from the Burning Skull's YouTube series: [How to Base Dominion](https://www.youtube.com/watch?v=JpPtxyGNGcg&list=PLtkTUMIr-WmKZCd4Q_KnrKtNJKR-vpC8a).
+
+Dominion is a game where a small advantage early in the game can snowball into a decisive advantage later on. As such, the opening (i.e your buys in the first two turns of the game) is very important in laying the foundation for your strategy throughout the rest of the game.
+
+This repository contains manually collected data about openings from [How to Base Dominion](https://www.youtube.com/watch?v=JpPtxyGNGcg&list=PLtkTUMIr-WmKZCd4Q_KnrKtNJKR-vpC8a), a YouTube series by Burning Skull, one of the best dominion players in the world. This data is processed, analyzed, and visualized in Jupyter Notebook using the Pandas, TrueSkill, and Matplotlib libraries in Python. The end result is rankings of the openings in this dataset from best to worst.
 
 ## Usage
 You can simply view in your browser: [How To Base Dominion Opening](https://github.com/zuirod/bskull-openings/blob/main/How%20to%20Base%20Dominion%20Opening.ipynb).
