@@ -11,6 +11,8 @@ For those who would like to dig through the code, install the requirements below
 
 ```jupyter notebook```
 
+A browser window should open. Wait for the page to load, then click 'How to Base Dominion Opening.ipynb'. Click Kernel > Restart & Run All to run all the cells, or Shift + Enter to run an individual cell.
+
 ## Requirements
 
 Run the appropriate commands at the Terminal (Mac/Linux) or Command Prompt (Windows).
