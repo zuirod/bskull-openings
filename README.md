@@ -1,6 +1,6 @@
 # bskull-openings
 
-Dominion is a game where a small advantage early on can snowball into a decisive advantage. As such, your opening buys (i.e., the cards you buy in the first two turns of the game) are very important in laying the foundation for your strategy throughout the rest of the game.
+Dominion is a game where a small advantage early on can snowball into a decisive advantage later on. As such, your opening buys (i.e., the cards you buy in the first two turns of the game) are very important in laying the foundation for your strategy throughout the rest of the game.
 
 This repository contains manually collected data about openings from [How to Base Dominion](https://www.youtube.com/watch?v=JpPtxyGNGcg&list=PLtkTUMIr-WmKZCd4Q_KnrKtNJKR-vpC8a), a YouTube series by Burning Skull, one of the best dominion players in the world. This data is processed, analyzed, and visualized in Jupyter Notebook using the Pandas, TrueSkill, and Matplotlib libraries in Python. The end result is rankings of the openings in this dataset from best to worst.
 
@@ -21,13 +21,13 @@ Run the appropriate commands at the Terminal (Mac/Linux) or Command Prompt (Wind
 
 ### Install with conda
 
-If you have [Anaconda or Miniconda](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/index.html) installed, run:
+If you have [Anaconda or Miniconda](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/index.html) installed:
 
-Create a conda environment:
+To create a conda environment, run:
 
 ```conda create --name bskull-openings --file requirements.txt```
 
-Activate the environment:
+To activate the environment, run:
 
 ```conda activate bskull-openings```
 
@@ -35,4 +35,4 @@ Activate the environment:
 
 Alternatively, if you have [Python](https://www.python.org/downloads/) installed, run:
 
-```pip install notebook pandas matplotlib trueskill lxml```
+```pip install notebook pandas matplotlib trueskill lxml tqdm```
