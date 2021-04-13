@@ -30,3 +30,9 @@ game_id,hypothetical,player,opening_type,opening,kingdom
 5975251,1,1,4-3,Militia-Chapel,Chapel-Harbinger-Village-Workshop-Militia-Moneylender-Poacher-Council Room-Festival-Market
 6193342,1,2,5-2,Sentry-,Harbinger-Workshop-Bureaucrat-Militia-Poacher-Council Room-Laboratory-Library-Market-Sentry
 6227420,1,2,5-2,Sentry-,Merchant-Gardens-Militia-Moneylender-Remodel-Throne Room-Bandit-Festival-Laboratory-Sentry
+70580237,0,1,3-4,Silver-Militia,Cellar-Moat-Vassal-Village-Militia-Poacher-Festival-Library-Sentry-Witch
+70580237,0,1,2-5,Chapel-Laboratory,Chapel-Moat-Workshop-Bureaucrat-Moneylender-Poacher-Throne Room-Bandit-Laboratory-Witch
+70582512,0,2,4-3,Chapel-Vassal,Chapel-Harbinger-Vassal-Throne Room-Laboratory-Market-Mine-Sentry-Witch-Artisan
+71112172,0,1,3-4,Vassal-Poacher,Vassal-Village-Bureaucrat-Poacher-Smithy-Throne Room-Council Room-Festival-Library-Sentry
+71113715,0,2,4-3,Poacher-Chapel,Cellar-Chapel-Merchant-Vassal-Village-Poacher-Bandit-Laboratory-Market
+71115823,0,2,3-4,Silver-Militia,Moat-Merchant-Vassal-Workshop-Gardens-Militia-Library-Market-Sentry-Artisan
